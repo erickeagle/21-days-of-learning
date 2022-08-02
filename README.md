@@ -1,2 +1,4 @@
 # 21-days-of-learning
-I'll add all the code, reference and videos to which I am referening in these 21 days.
+
+I will add all the code, references and videos I am referring to in these 21 days.
+
