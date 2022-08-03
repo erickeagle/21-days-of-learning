@@ -1,0 +1,26 @@
+#Day 1
+
+Learned Following things:
+
+1) How to use AWS Cli and EMR
+
+2) Started learning Hive:
+> Done some basic queries
+> Doing comparision with MySQL
+
+3) Started learning PySpark:
+> learned to create spark session
+> how to load paraquet file in it from s3 bucket and viewing it schema
+
+https://stackoverflow.com/questions/39780792/how-to-build-a-sparksession-in-spark-2-0-using-pyspark
+
+4) Read about kafka and data engineering pipeline of taco bell
+
+5) Started learning Scala
+> about scala
+> about sbt
+> defining variables
+> lazy loading or on demand loading
+
+https://www.youtube.com/watch?v=OfngvXKNkpM&t=28s
+
